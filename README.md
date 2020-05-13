@@ -14,9 +14,12 @@
 
 This folder contains in-air hand-written numbers, shapes dataset and the matlab code used in the paper "Graph Spectral Domain Feature Learning with Application to In-Air Hand-Drawn Number and Shape Recognition" IEEE Access. 2019 Oct 31;7:159661-73.
 This data set contains the following:
--Readme.txt;
--Dataset Folder (With 2 sub folders for Matlab and Excel);
--Matlab code (Graph formuation and feature extraction);
+
+-Readme.txt
+
+-Dataset Folder (With 2 sub folders for Matlab and Excel)
+
+-Matlab code (Graph formuation and feature extraction)
 
 If you use this data, please cite our publication in your paper as follows:
 
