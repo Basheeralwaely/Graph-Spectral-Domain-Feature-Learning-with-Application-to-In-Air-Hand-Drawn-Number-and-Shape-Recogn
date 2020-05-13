@@ -2,12 +2,12 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%      
                     "Graph Spectral Domain Feature Learning with Application to In-Air Hand-Drawn Number and Shape Recognition"
 
-                                                           Basheer Alwaely and Charith Abhayaratne
+                                                 Basheer Alwaely and Charith Abhayaratne
 
-                                                    Department of Electronic and Electrical Engineering
+                                          Department of Electronic and Electrical Engineering
        
-                                                            The University of Sheffield
-                                                      Sheffield, S1 3JD, United Kingdom
+                                                       The University of Sheffield
+                                                     Sheffield, S1 3JD, United Kingdom
                                     Email: basheer.alwaely@gmail.com, c.abhayaratne@sheffield.ac.uk
 
                                                               15/05/2020
@@ -36,20 +36,37 @@ Copyright license: CC-BY-4.0
 
 List of files:
 Readme.txt
+
 Matlabcode.mat
+
 \Numbers\Excel\label.xlsx   %labels of the number samples 
+
 \Numbers\Excel\X.xlsx  %coordinates of the number samples 
+
 \Numbers\Excel\Y.xlsx  %coordinates of the number samples 
+
 \Numbers\Excel\Z.xlsx  %coordinates of the number samples
+
 \Numbers\Matlab\label.xlsx   %labels of the number samples 
+
 \Numbers\Matlab\X.xlsx  %coordinates of the number samples 
+
 \Numbers\Matlab\Y.xlsx  %coordinates of the number samples 
+
 \Numbers\Matlab\Z.xlsx  %coordinates of the number samples
+
 \Shapes\Excel\label.xlsx   %labels of the shape samples 
+
 \Shapes\Excel\X.xlsx  %coordinates of the shape samples 
+
 \Shapes\Excel\Y.xlsx  %coordinates of the shape samples 
+
 \Shapes\Excel\Z.xlsx  %coordinates of the shape samples
+
 \Shapes\Matlab\label.xlsx   %labels of the shape samples 
+
 \Shapes\Matlab\X.xlsx  %coordinates of the shape samples 
+
 \Shapes\Matlab\Y.xlsx  %coordinates of the shape samples 
+
 \Shapes\Matlab\Z.xlsx  %coordinates of the shape samples
