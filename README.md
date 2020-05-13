@@ -26,12 +26,19 @@ If you use this data, please cite our publication in your paper as follows:
 Basheer Alwaely and Charith Abhayaratne,"Graph Spectral Domain Feature Learning with Application to In-Air Hand-Drawn Number and Shape Recognition" IEEE Access. 2019 Oct 31;7:159661-73.
 
 @article{alwaely2019graph,
+
   title={Graph Spectral Domain Feature Learning With Application to in-Air Hand-Drawn Number and Shape Recognition},
+  
   author={Alwaely, Basheer and Abhayaratne, Charith},
+  
   journal={IEEE Access},
+  
   volume={7},
+  
   pages={159661--159673},
+  
   year={2019},
+  
   publisher={IEEE}
 }
 
