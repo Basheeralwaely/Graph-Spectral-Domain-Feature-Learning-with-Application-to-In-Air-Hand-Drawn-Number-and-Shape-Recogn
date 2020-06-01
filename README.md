@@ -10,7 +10,7 @@
                                                      Sheffield, S1 3JD, United Kingdom
                                     Email: basheer.alwaely@gmail.com, c.abhayaratne@sheffield.ac.uk
 
-                                                              15/05/2020
+                                                              01/06/2020
 
 This folder contains in-air hand-written numbers, shapes dataset and the matlab code used in the paper "Graph Spectral Domain Feature Learning with Application to In-Air Hand-Drawn Number and Shape Recognition" IEEE Access. 2019 Oct 31;7:159661-73.
 This data set contains the following:
