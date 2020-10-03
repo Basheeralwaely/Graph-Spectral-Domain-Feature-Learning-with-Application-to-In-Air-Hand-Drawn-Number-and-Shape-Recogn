@@ -1,5 +1,5 @@
 # Graph-Spectral-Domain-Feature-Learning-with-Application-to-In-Air-Hand-Drawn-Number-and-Shape-Recognition
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%      
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   
                     "Graph Spectral Domain Feature Learning with Application to In-Air Hand-Drawn Number and Shape Recognition"
 
                                                  Basheer Alwaely and Charith Abhayaratne
